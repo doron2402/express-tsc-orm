@@ -1,0 +1,27 @@
+{
+  "name": "express-tsc-orm",
+  "version": "1.0.0",
+  "description": "Express App using TypeScript and ORM (Postgres)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doron2402/express-tsc-orm.git"
+  },
+  "keywords": [
+    "Express",
+    "TypeScript",
+    "ORM"
+  ],
+  "author": "Doron Segal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doron2402/express-tsc-orm/issues"
+  },
+  "homepage": "https://github.com/doron2402/express-tsc-orm#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
